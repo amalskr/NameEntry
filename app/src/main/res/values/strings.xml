@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Name Entry</string>
+    <string name="main_msg">Don\'t press me</string>
+    <string name="next_msg">Why did you do that</string>
+</resources>
